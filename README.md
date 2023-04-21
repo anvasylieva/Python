@@ -1,3 +1,3 @@
-# CodeUA---Python-
+# Python
 
 LEGB = Local -> Enclosing-> Global -> Built-in
